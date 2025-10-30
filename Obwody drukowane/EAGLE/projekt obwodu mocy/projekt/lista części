@@ -1,0 +1,76 @@
+Partlist
+
+Exported from untitled.sch at 09.06.2024 12:36
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Assembly variant: 
+
+Part     Value          Device      Package  Library         Sheet
+
+C101     100 p          C-EUC0603   C0603    rcl             1
+C102     100 p          C-EUC0603   C0603    rcl             1
+C103     100 p          C-EUC0603   C0603    rcl             1
+C104     100 p          C-EUC0603   C0603    rcl             1
+C105     100 n          C-EUC1206   C1206    rcl             1
+C106     100 n          C-EUC1206   C1206    rcl             1
+C201     100 p          C-EUC0603   C0603    rcl             2
+C202     100 p          C-EUC0603   C0603    rcl             2
+C203     1 u            C-EUC0805   C0805    rcl             2
+C204     100 n          C-EUC0805   C0805    rcl             2
+C205     100 p          C-EUC0603   C0603    rcl             2
+C206     100 n          C-EUC1206   C1206    rcl             2
+C207     1 u            C-EUC0805   C0805    rcl             2
+C208     100 n          C-EUC0805   C0805    rcl             2
+C301     100 p          C-EUC0603   C0603    rcl             3
+C302     1 u            C-EUC0805   C0805    rcl             3
+C303     100 n          C-EUC0805   C0805    rcl             3
+C304     1 u            C-EUC0805   C0805    rcl             3
+C305     100 n          C-EUC0805   C0805    rcl             3
+C306     100 p          C-EUC0603   C0603    rcl             3
+C307     100 p          C-EUC0603   C0603    rcl             3
+C308     100 n          C-EUC1206   C1206    rcl             3
+IC101                   1AMP_P7+4D  SO08     linear          1
+IC102                   1AMP_P7+4D  SO08     linear          1
+IC103                   1AMP_P7+4D  SO08     linear          1
+IC201                   1AMP_P7+4D  SO08     linear          2
+IC301                   1AMP_P7+4D  SO08     linear          3
+MEJ1                    MEJ1        MEJ1     untitled        2
+R101     10 k           R-EU_R0402  R0402    rcl             1
+R102     10 k           R-EU_R0402  R0402    rcl             1
+R103     12 k           R-EU_R0402  R0402    rcl             1
+R104     25 k           R-EU_R0402  R0402    rcl             1
+R105     25 k           R-EU_R0402  R0402    rcl             1
+R106     24,3 k         R-EU_R0402  R0402    rcl             1
+R107     33 k           R-EU_R0402  R0402    rcl             1
+R108     25 k           R-EU_R0402  R0402    rcl             1
+R109     33 k           R-EU_R0402  R0402    rcl             1
+R110     25 k           R-EU_R0402  R0402    rcl             1
+R111     33 k           R-EU_R0402  R0402    rcl             1
+R112     33 k           R-EU_R0402  R0402    rcl             1
+R113     10             R-EU_R0402  R0402    rcl             1
+R114     10             R-EU_R0402  R0402    rcl             1
+R201     3,3 k          R-EU_R0402  R0402    rcl             2
+R202     93 k           R-EU_R0402  R0402    rcl             2
+R203     3 k            R-EU_R0402  R0402    rcl             2
+R204     3,3 k          R-EU_R0402  R0402    rcl             2
+R205     3 k            R-EU_R0402  R0402    rcl             2
+R206     10             R-EU_R0402  R0402    rcl             2
+R301     1 M            R-EU_R0603  R0603    rcl             3
+R302     1 M            R-EU_R0603  R0603    rcl             3
+R303     1 M            R-EU_R0603  R0603    rcl             3
+R304     1 M            R-EU_R0603  R0603    rcl             3
+R305     23,65 k        R-EU_R0603  R0603    rcl             3
+R306     3,3 k          R-EU_R0402  R0402    rcl             3
+R307     3,3 k          R-EU_R0402  R0402    rcl             3
+R308     3 k            R-EU_R0402  R0402    rcl             3
+R309     3 k            R-EU_R0402  R0402    rcl             3
+R310     10             R-EU_R0402  R0402    rcl             3
+SV101                   FE05-2      FE05-2   con-lsta        1
+U201     AMC1311BDWV    AMC1311BDWV DWV0008A untitled1       2
+U301     AMC1311BDWV    AMC1311BDWV DWV0008A untitled1       3
+X101     1751248        1751248     1751248  con-phoenix-350 1
+X102     1751264        1751264     1751264  con-phoenix-350 1
+X103     1751264        1751264     1751264  con-phoenix-350 1
+X104     1751248        1751248     1751248  con-phoenix-350 1
+X105     1751248        1751248     1751248  con-phoenix-350 1
